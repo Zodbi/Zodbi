@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-## Olá, me chamo Gabriel Zodbi, tenho 25 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando Engenharia da Computação no IFSP - Piracicaba. Sou entusiasta de novas técnologias e estou sempre atrás de aprender coisas novas.
+## Olá, me chamo Gabriel Zodbi, tenho 25 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando Engenharia da Computação no IFSP - Piracicaba. Sou entusiasta de novas técnologias e estou sempre atrás de aprender coisas novas. Meu Linkedin : "[Gabriel Zodbi](https://www.linkedin.com/in/gabriel-zodbi)"
 
 
 
