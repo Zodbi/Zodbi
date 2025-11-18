@@ -1,5 +1,7 @@
 ## Gabriel Zodbi
 
+**`Estudante de Engenharia da Computação`**
+
 ## Olá, me chamo Gabriel Zodbi, tenho 25 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando Engenharia da Computação no IFSP - Piracicaba. Sou entusiasta de novas técnologias e estou sempre atrás de aprender coisas novas.
 
 
@@ -49,48 +51,63 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+          
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Linux" 
+    title="Linux "
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+          
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Android Studio" 
+    title="Android Studio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-       wordmark.svg" 
+/>
+          
+          
 
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
+
+
 
