@@ -1,129 +1,69 @@
-## Gabriel Zodbi
+<h1 align="center">👋 Olá, eu sou o Gabriel Zodbi</h1>
 
-**`Estudante de Engenharia da Computação`**
+<p align="center">
+  <strong>Estudante de Engenharia da Computação | IFSP - Piracicaba</strong><br>
+  Apaixonado por tecnologia, ciência e desenvolvimento de software.
+</p>
 
-## Olá, me chamo Gabriel Zodbi, tenho 25 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando Engenharia da Computação no IFSP - Piracicaba. Sou entusiasta de novas técnologias e estou sempre atrás de aprender coisas novas. Meu Linkedin : "[Gabriel Zodbi](https://www.linkedin.com/in/gabriel-zodbi)"
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-zodbi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Idade-25 anos-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cidade-Ribeirão Preto-brightgreen?style=for-the-badge"/>
+</p>
 
+---
 
+## 🚀 Sobre mim
 
-### 🤖 Linguagens e Tecnologias
+Sou estudante de Engenharia da Computação no IFSP - Piracicaba e apaixonado por tecnologia.  
+Sempre buscando aprender algo novo, desenvolver projetos e evoluir como programador.  
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>         
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>          
-<img 
-    align="left" 
-    alt="Android Studio" 
-    title="Android Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-          
-          
+Atualmente meus interesses incluem:
+- Desenvolvimento Backend  
+- Sistemas Distribuídos  
+- Banco de Dados  
+- Cloud Computing  
+- Otimização de código e boas práticas  
 
+---
 
-<br/>
-<br/>
+## 🤖 Linguagens e Tecnologias
 
-### 📊 Estatísticas
+<p style="display: flex; align-items: center; gap: 12px;">
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img alt="Android Studio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+  <img alt="AWS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Zodbi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Zodbi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zodbi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zodbi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
   />
-
 </p>
 
+---
 
+## 📬 Entre em contato
 
-
+📧 **gabrielzodbi@gmail.com**  
+💼 **LinkedIn:** https://www.linkedin.com/in/gabriel-zodbi  
