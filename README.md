@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Idade-25 anos-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cidade-Ribeirão Preto-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cidade-Piracicaba-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
